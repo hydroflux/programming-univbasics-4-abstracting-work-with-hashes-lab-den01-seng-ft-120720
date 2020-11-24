@@ -30,3 +30,8 @@ end
 #   end
 #   hash
 # end
+
+# def update_counting_hash(hash, key)
+#   hash[key] ? hash[key] += 1 : hash[key] = 1
+#   hash
+# end
